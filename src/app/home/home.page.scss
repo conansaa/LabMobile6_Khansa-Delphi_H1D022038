@@ -1,0 +1,52 @@
+ion-title {
+  font-weight: bold;
+  font-size: 1.2em;
+  color: #fff;
+}
+
+ion-card {
+  --background: #4c4c4c;
+  border-radius: 10px;
+  margin: 16px;
+}
+
+ion-card-title {
+  color: #ffffff;
+  font-weight: bold;
+}
+
+ion-card-subtitle {
+  color: #e1e4ff;
+  font-size: 0.9em;
+}
+
+ion-thumbnail img {
+  border-radius: 8px;
+}
+
+ion-list {
+  padding-top: 8px;
+}
+
+ion-item {
+  --padding-start: 12px;
+  --background: #4c4c4c;
+}
+
+ion-menu {
+  --background: #4c4c4c;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+
+ion-menu ion-content {
+  font-size: 1.1em;
+  line-height: 1.5em;
+  padding: 20px;
+  color: #fdf4e3;
+}
+
+ion-menu-button {
+  color: white;
+}
